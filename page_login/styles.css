@@ -1,0 +1,44 @@
+body{
+    background: #007bff
+}
+
+
+
+#user{
+    background: cadetblue;
+    width: 350px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+   
+}
+
+#user .inputs{
+    width: 250px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+        
+}
+.inputs ::hover{
+    color: red;
+    background: gold;
+    cursor: ew-resize;
+}
+.submits{
+    background: #c8cbcf;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
+.submits:hover{
+    background: greenyellow;
+    color: white
+}
+a{
+    text-decoration: none;
+    text-align: left;
+    color:red;
+    background: red;
+}
